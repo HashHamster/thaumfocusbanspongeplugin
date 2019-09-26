@@ -137,7 +137,7 @@ public class SpellCastListener {
         }
         catch (Exception e)
         {
-            logger.error("Unable to create default config for Thaumcraft Focus Ban");
+            logger.error("Unable to create initial default config for Thaumcraft Focus Ban");
         }
 
         //Register Command Interface
