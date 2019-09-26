@@ -1,0 +1,9 @@
+[{
+    "modid": "thaumcraftfocusban",
+    "name": "Thaumcraft Focus Ban",
+    "version": "0.1",
+    "description": "Allows Specific Thaumcraft Spells To Be Disabled",
+    "authorList": [
+        "HashHamster"
+    ]
+}]
